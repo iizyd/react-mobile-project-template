@@ -3,8 +3,8 @@ import './home.scss';
 
 function Home (props) {
   return (
-    <div>
-      <h1>HOME</h1>
+    <div className="wrap">
+      <div className="main">Welcome to React !</div>
     </div>
   )
 }

@@ -1,4 +1,4 @@
-import Home from '@/views/home/home.js';
+import Home from '@/views/home/home';
 
 const routes = [
   {
